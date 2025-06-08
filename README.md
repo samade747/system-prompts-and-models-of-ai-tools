@@ -28,8 +28,6 @@
 
 ## 🛠 **Roadmap & Feedback**
 
-🚨 **Note:** We no longer use GitHub issues for roadmap and feedback.  
-Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featurebase.app/) to share your suggestions and track upcoming features.
 
 🆕 **LATEST UPDATE:** 06/06/2025 
 
@@ -48,15 +46,14 @@ Thank you for your support! 🙏
 
 
 ## 🔗 **Connect With Me**  
-✖ **X:** [NotLucknite](https://x.com/NotLucknite)  
-💬 **Discord:** `x1xh`  
+
 
 ## 🛡️ **Security Notice for AI Startups***
 
 ⚠️ **If you're an AI startup, make sure your data is secure.** Exposed prompts or AI models can easily become a target for hackers.
 
 🔐 **Interested in securing your AI systems?**  
-Check out **[ZeroLeaks](https://0leaks.vercel.app)**, a service designed to help startups **identify and secure** leaks in system instructions, internal tools, and model configurations. **Get a free AI security audit** to ensure your AI is protected from vulnerabilities.
+
 
 
 **The company is mine, this is NOT a 3rd party AD.*
